@@ -45,3 +45,5 @@ plt.title("Unit Price")
 plt.figure(figsize=(10, 5))
 sns.scatterplot(x="Product line", y="Quantity", data=df)
 plt.title("Quantity of product")
+
+Link: https://nb.anaconda.cloud/jupyterhub/user/979a46ea-0500-4687-b91b-9363a6edaa59/lab/tree/python%20session%203/Seassion3/assignment/Week7.ipynb
